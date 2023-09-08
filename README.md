@@ -1,4 +1,4 @@
-#Financial-Complaint-Data-Analysis
+# Financial-Complaint-Data-Analysis
 
 To achieve this, I have completed several tasks.
 · I performed data cleaning using power query. Fixed extra spaces in rows. Tackle NULL values.
